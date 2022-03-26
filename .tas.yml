@@ -1,6 +1,5 @@
 ---
 framework: jest
-tier: large
 postMerge:
   pattern:
     - "./test/**/*.spec.ts"
